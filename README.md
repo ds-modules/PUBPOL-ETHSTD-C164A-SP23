@@ -8,4 +8,10 @@
 
 | Lecture         | Date       | Summary                                     | Topic                 | Datahub Link       |
 |-----------------|------------|---------------------------------------------|-----------------------|--------------------|
-|  |  |     |  | 
+| Introduction to Python and Jupyter Notebook |  |     |  | 
+| Table Manipulation Take-Home exercise |  |     |  | 
+| Exploring Labor Statistics on U.S. Youth |  |     |  | 
+| Introduction to Data Visualizations |  |     |  | 
+
+
+

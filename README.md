@@ -12,7 +12,7 @@
 
 **Goal:** To empower students in labor studies (especially those who identify as first-generation, BIPOC) to conduct data analysis and policy development and apply these skills for their social justice careers.
 
-|DS Number| Topic         | Date       | Datahub Link       |
+|DS| Topic         | Date       | Datahub Link       |
 |------|-----------------|------------|--------------------|
 |1| Introduction to Python and Jupyter  |  02/02/2023|     |  | 
 |2| Table Manipulation *Homework* | 02/02/2023-02/07/2023 |     |  | 

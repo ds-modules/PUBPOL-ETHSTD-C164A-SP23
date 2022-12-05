@@ -13,11 +13,11 @@
 
 |DS| Topic         | Date       | Datahub Link       |
 |------|-----------------|------------|--------------------|
-|1| Introduction to Python and Jupyter  |  02/02/2023|     |  | 
-|2| Table Manipulation *Homework* | 02/02/2023-02/07/2023 |     |  | 
-|3| Exploring Labor Statistics on U.S. Youth | 02/14/2023 |     |  | 
-|4| Introduction to Data Visualization |02/21/2023  |     |  | 
-|5| Data Cleaning EDA Notebook | 02/23/2023 |     |  | 
+|1| Introduction to Python and Jupyter  |  02/02/2023| [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FPUBPOL-ETHSTD-C164A-SP23&branch=main&urlpath=tree%2FPUBPOL-ETHSTD-C164A-SP23%2F1.+Introduction+to+Python+and+Jupyter.ipynb)    |  | 
+|2| Table Manipulation *Homework* | 02/02/2023-02/07/2023 | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FPUBPOL-ETHSTD-C164A-SP23&branch=main&urlpath=tree%2FPUBPOL-ETHSTD-C164A-SP23%2F2.+Table+Manipulation+Homework.ipynb)    |  | 
+|3| Exploring Labor Statistics on U.S. Youth | 02/14/2023 |  [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FPUBPOL-ETHSTD-C164A-SP23&branch=main&urlpath=tree%2FPUBPOL-ETHSTD-C164A-SP23%2F3.+Exploring+Labor+Statistics+Among+US+Youth.ipynb)  |  | 
+|4| Introduction to Data Visualization |02/21/2023  |    [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FPUBPOL-ETHSTD-C164A-SP23&branch=main&urlpath=tree%2FPUBPOL-ETHSTD-C164A-SP23%2F4.+Data+Visualization.ipynb) |  | 
+|5| Data Cleaning EDA Notebook | 02/23/2023 |  [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FPUBPOL-ETHSTD-C164A-SP23&branch=main&urlpath=tree%2FPUBPOL-ETHSTD-C164A-SP23%2F5.+Data+Cleaning+EDA.ipynb)   |  | 
 |6| Survey Analysis Notebook  |  |     |  | 
 
 

@@ -7,7 +7,7 @@
 **Team Lead**: Skye Pickett
 
 **Developer Team**:
-[Fall 2022] Leah Hong, Reynolds Zhang, and Emily Guo
+[Fall 2022] Leah Hong, Reynolds Zhang, and Emily Guo <br>
 [Summer 2022] Vaidehi Bulusu, Leah Hong, Drishti Gupta, Hans Ocampo
 
 **Goal:** To empower students in labor studies (especially those who identify as first-generation, BIPOC) to conduct data analysis and policy development and apply these skills for their social justice careers.

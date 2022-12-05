@@ -4,9 +4,8 @@
 
 **Instructor**: Anibel Ferus-Comelo PhD
 
-**Team Lead**: Skye Pickett
-
-**Developer Team**:
+**Team Lead**: Skye Pickett <br>
+**Developer Team**:<br>
 [Fall 2022] Leah Hong, Reynolds Zhang, and Emily Guo <br>
 [Summer 2022] Vaidehi Bulusu, Leah Hong, Drishti Gupta, Hans Ocampo
 

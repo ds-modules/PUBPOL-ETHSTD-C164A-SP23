@@ -18,7 +18,7 @@
 |3| Exploring Labor Statistics on US Youth | 02/14/2023 |  [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FPUBPOL-ETHSTD-C164A-SP23&branch=main&urlpath=tree%2FPUBPOL-ETHSTD-C164A-SP23%2F3.+Exploring+Labor+Statistics+Among+US+Youth.ipynb)  |  | 
 |4| Data Visualization |02/21/2023  |    [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FPUBPOL-ETHSTD-C164A-SP23&branch=main&urlpath=tree%2FPUBPOL-ETHSTD-C164A-SP23%2F4.+Data+Visualization.ipynb) |  | 
 |5| Data Cleaning EDA | 02/23/2023 |  [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FPUBPOL-ETHSTD-C164A-SP23&branch=main&urlpath=tree%2FPUBPOL-ETHSTD-C164A-SP23%2F5.+Data+Cleaning+EDA.ipynb)   |  | 
-|6| Survey Analysis   |  |     |  | 
+|6| Survey Analysis   |  |  [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FPUBPOL-ETHSTD-C164A-SP23&branch=main&urlpath=tree%2FPUBPOL-ETHSTD-C164A-SP23%2F6.+Survey+Analysis.ipynb)   |  | 
 
 
 

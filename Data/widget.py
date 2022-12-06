@@ -6,7 +6,7 @@ import numpy as np
 import ipywidgets as widgets
 from ipywidgets import interact, interactive, fixed, interact_manual
 
-wages_ethnicity = Table.read_table("YouthEarningsByEthnicity.csv")
+wages_ethnicity = Table.read_table("Data/YouthEarningsByEthnicity.csv")
 
 
 #run this cell 

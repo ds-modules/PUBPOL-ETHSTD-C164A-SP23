@@ -2,7 +2,6 @@ from datascience import *
 import numpy as np
 import matplotlib.pyplot as plt
 plt.ion()
-%matplotlib inline
 
 
 # import the widgets module
